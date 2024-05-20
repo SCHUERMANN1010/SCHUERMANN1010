@@ -1,6 +1,9 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 🚗.
+Meu nome é Bruno Schuermann.
+- Estou estudando na Alura.
+- Estou me desenvolvendo na linguagem Java Script.
+- Utilizo este espaço para desenvolver nossos projetos.
 
-<!--
 **SCHUERMANN1010/SCHUERMANN1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
